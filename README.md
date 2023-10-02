@@ -2,7 +2,7 @@
 
 👋 Hello, I'm Siddharth Singh!
 
-Thankyou for visiting my profile. I am an ISTQB certified manual tester having hands on experience into web and mobile application testing & firmly believe in the value of continuous learning.
+Thankyou for visiting my profile. I am an ISTQB certified manual tester having hands on experience into web and mobile application testing & I firmly believe in the value of continuous learning.
 
 🌟 **Skills**:
 - Bug Reporting & Tracking
