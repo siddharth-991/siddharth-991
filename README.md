@@ -1,6 +1,6 @@
 ## About Me
 
-👋 Hello, I'm [Your Name]!
+👋 Hello, I'm Siddharth Singh!
 
 I'm a passionate and detail-oriented manual tester with a keen eye for quality assurance. I believe that thorough testing is the cornerstone of delivering reliable and user-friendly software.
 
@@ -22,9 +22,9 @@ I'm a passionate and detail-oriented manual tester with a keen eye for quality a
 - [List any other relevant skills]
 
 🌐 **Online Presence**:
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- Check out my [blog](https://yourblog.com) for testing tips and insights
-- Follow me on Twitter: [@YourTwitterHandle]
+- [![Linkedin Badge](https://img.shields.io/badge/-SiddharthSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siddharth-singh-087500102/)](https://www.linkedin.com/in/siddharth-singh-087500102/)
+
+- [![Gmail Badge](https://img.shields.io/badge/-siddharthsngh210@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siddharthsngh210@gmail.com)](mailto:siddharthsngh210@gmail.com)
 
 💬 **Let's Collaborate**:
 - I'm always open to collaborating with fellow testers and developers.
