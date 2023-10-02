@@ -10,7 +10,7 @@ Thankyou for visiting my profile. I am an ISTQB certified manual tester having h
 - Error Guessing
 - Regression Testing
 - Retesting
-- Black Box Testing
+- Black Box Testing Techniques
 - Manual Testing
 - Smoke Testing
 - Sanity Testing
