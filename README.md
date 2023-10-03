@@ -15,6 +15,7 @@ Thankyou for visiting my profile. I am an ISTQB certified manual tester having h
 - Smoke Testing
 - Sanity Testing
 - Functional Testing
+- Form Testing
 - Quality Assurance
 - Jira
 - Excel
